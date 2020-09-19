@@ -20,7 +20,7 @@
 		<td>NPM</td>	
         </tr>
         <tr>
-		<td>DWI WAHYU EFFENDI</td>
+		<td>Dwi Wahyu Effendi</td>
 		<td>18081010017</td>
         </tr>
           <tr>
