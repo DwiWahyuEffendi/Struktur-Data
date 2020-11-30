@@ -23,8 +23,4 @@
 		<td>Dwi Wahyu Effendi</td>
 		<td>18081010017</td>
         </tr>
-          <tr>
-		<td>Amirah Aulia Fitria</td>
-		<td>18081010029</td>
-        </tr>
     </table>
